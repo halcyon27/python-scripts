@@ -1,9 +1,0 @@
-[
-    {
-        "CONNECTION_INFO.context_tag": "TAG",
-        "$..nlu_interpretation_results.payload.interpretations[0].literal": "QUERY",
-
-        "$..nlu_interpretation_results.payload.interpretations[0].action.intent.value": "INTENT",
-        "$..nlu_interpretation_results.payload.interpretations[0].concepts.nuance_tv_query[0].literal": ""
-    }
-]
